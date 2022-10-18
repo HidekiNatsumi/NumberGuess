@@ -1,7 +1,6 @@
 # NumberGuess
 
 a small JavaScript project (mini-game)
-with the help of Jonas Schmedtmann course
 
 
 Explanation

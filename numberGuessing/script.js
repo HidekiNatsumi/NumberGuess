@@ -22,7 +22,7 @@ const handler = function () {
       document.querySelector('.message').textContent = 'You are correct!';
       document.querySelector('body').style.backgroundColor = '#60b347'; //all css values are converted to strings so use ''
       document.querySelector('.number').style.width = '30rem';
-      document.querySelector('.number').textContent = randomNr; // remove (//) to check the random number
+      document.querySelector('.number').textContent = randomNr; 
       if (score > highscore) {
         highscore = score;
         document.querySelector('.highscore').textContent = highscore;

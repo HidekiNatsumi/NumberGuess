@@ -41,6 +41,9 @@ const handler = function () {
     }
   }
 };
+  /*
+  again function is used to reset all the values of the previous variables
+  */
 const again = function () {
   randomNr = Math.trunc(Math.random() * 20) + 1;
   document.querySelector('.message').textContent = 'Start guessing...';

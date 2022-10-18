@@ -10,7 +10,6 @@ Explanation
 <li>You can try 20 times to guess the number</li>
 <li>You can use the "Again" button to reset the game</li>
 <li>There will be a highscore for the highest score during that session</li>
-<li>leaving the input field empty and using check button makes you lose 1 try chance</li>
 <li>Screen changes to green after finding the correct number</li>
 </ul>
 

@@ -14,6 +14,8 @@ Screenshots
 <li>leaving the field empty and using check make you lose 1 try</li>
 <li>Screen changes to green after finding the correct number</li>
 </ul>
-![beforepage](https://user-images.githubusercontent.com/96385473/196495401-2f2a81de-f2db-4c13-9a65-97f929d656e9.png)
+
+![beforepage](https://user-images.githubusercontent.com/96385473/196496359-34b9efd0-85f2-41b7-8d20-9e29ce67b0f7.png)
+
 
 ![afterpage](https://user-images.githubusercontent.com/96385473/196495416-34648b78-925a-4ad5-91c8-f282eca052d6.png)

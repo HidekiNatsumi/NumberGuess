@@ -2,7 +2,7 @@
 
 a small JavaScript project (mini-game)
 With the help of Jonas Schmedtmann course
--
+
 
 Explanation
 -

@@ -1,5 +1,9 @@
 'use strict';
 
+const displayMessage = function (message) {
+  document.querySelection('.message').textContent = message;
+};
+
 let randomNr = Math.trunc(Math.random() * 20) + 1;
 let score = Number(document.querySelector('.score').textContent);
 let highscore = 0;
@@ -10,12 +14,8 @@ const handler = function () {
   score = Number(document.querySelector('.score').textContent);
   if (!guess) {
     if (score > 1) {
-      document.querySelector('.message').textContent = 'No number inputed!';
-      score--;
-      document.querySelector('.score').textContent = score;
-    } else {
-      document.querySelector('.message').textContent = 'You lost the game!';
-    }
+        displayMessage('No number!')
+
   } else if (guess === randomNr) {
     //when player wins
     if (score > 0) {

@@ -4,7 +4,7 @@ a small JavaScript project (mini-game)
 With the help of Jonas Schmedtmann course
 -
 
-Screenshots
+Explanation
 -
 <ul>
 <li>You have to input one number from 1 to 20 </li>
@@ -14,6 +14,9 @@ Screenshots
 <li>leaving the field empty and using check make you lose 1 try</li>
 <li>Screen changes to green after finding the correct number</li>
 </ul>
+
+Screenshots
+-
 
 ![beforepage](https://user-images.githubusercontent.com/96385473/196496359-34b9efd0-85f2-41b7-8d20-9e29ce67b0f7.png)
 

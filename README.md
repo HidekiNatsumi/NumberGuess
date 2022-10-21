@@ -7,9 +7,9 @@ Explanation
 -
 <ul>
 <li>You have to input one number from 1 to 20 </li>
-<li>You can try 20 times to guess the number</li>
+<li>You can try 20 times to guess the correct number</li>
 <li>You can use the "Again" button to reset the game</li>
-<li>There will be a highscore for the highest score during that session</li>
+<li>There will be a highscore for the highest score during the session</li>
 <li>Screen changes to green after finding the correct number</li>
 </ul>
 
